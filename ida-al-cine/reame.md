@@ -25,3 +25,5 @@ Seleccionar una butaca y que tenga la opción de reservarla. Si dicha butaca ya 
 
 
 Por aquí te dejo un vídeo de un truquito que te va a ayudar un montón.
+
+<a href=https://youtu.be/1lsu4rXOfJM> Hola, soy el video! Dame click </a>
